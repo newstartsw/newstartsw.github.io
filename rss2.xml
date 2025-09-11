@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="/_data/rss2.xsl" ?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="/rss2.xsl" ?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🆕 Starts</title>
-    <link>https://blog.nssw.qzz.io/</link>
+    <link>https://nssw.200536.xyz/</link>
     
-    <atom:link href="https://blog.nssw.qzz.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://nssw.200536.xyz/rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description></description>
+    <description>新</description>
     <pubDate>Fri, 05 Sep 2025 22:35:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>友链机器人</title>
-      <link>https://blog.nssw.qzz.io/2025/09/05/links-bot/</link>
-      <guid>https://blog.nssw.qzz.io/2025/09/05/links-bot/</guid>
+      <link>https://nssw.200536.xyz/2025/09/05/links-bot/</link>
+      <guid>https://nssw.200536.xyz/2025/09/05/links-bot/</guid>
       <pubDate>Fri, 05 Sep 2025 22:25:00 GMT</pubDate>
       
         
@@ -26,22 +26,22 @@
       
       
       
-      <category domain="https://blog.nssw.qzz.io/categories/%E5%90%8E%E7%AB%AF/">后端</category>
+      <category domain="https://nssw.200536.xyz/categories/%E5%90%8E%E7%AB%AF/">后端</category>
       
       
-      <category domain="https://blog.nssw.qzz.io/tags/tgbot/">tgbot</category>
+      <category domain="https://nssw.200536.xyz/tags/tgbot/">tgbot</category>
       
-      <category domain="https://blog.nssw.qzz.io/tags/workers/">workers</category>
+      <category domain="https://nssw.200536.xyz/tags/workers/">workers</category>
       
       
-      <comments>https://blog.nssw.qzz.io/2025/09/05/links-bot/#disqus_thread</comments>
+      <comments>https://nssw.200536.xyz/2025/09/05/links-bot/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Hexo Action</title>
-      <link>https://blog.nssw.qzz.io/2025/09/04/hexo-action/</link>
-      <guid>https://blog.nssw.qzz.io/2025/09/04/hexo-action/</guid>
+      <link>https://nssw.200536.xyz/2025/09/04/hexo-action/</link>
+      <guid>https://nssw.200536.xyz/2025/09/04/hexo-action/</guid>
       <pubDate>Thu, 04 Sep 2025 10:35:00 GMT</pubDate>
       
       <description>两个仓库一个工作流轻松搭建hexo博客（无需本地）</description>
@@ -49,20 +49,20 @@
       
       
       
-      <category domain="https://blog.nssw.qzz.io/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      <category domain="https://nssw.200536.xyz/categories/%E5%89%8D%E7%AB%AF/">前端</category>
       
       
-      <category domain="https://blog.nssw.qzz.io/tags/hexo/">hexo</category>
+      <category domain="https://nssw.200536.xyz/tags/hexo/">hexo</category>
       
       
-      <comments>https://blog.nssw.qzz.io/2025/09/04/hexo-action/#disqus_thread</comments>
+      <comments>https://nssw.200536.xyz/2025/09/04/hexo-action/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://blog.nssw.qzz.io/2025/09/03/hello-world/</link>
-      <guid>https://blog.nssw.qzz.io/2025/09/03/hello-world/</guid>
+      <link>https://nssw.200536.xyz/2025/09/03/hello-world/</link>
+      <guid>https://nssw.200536.xyz/2025/09/03/hello-world/</guid>
       <pubDate>Wed, 03 Sep 2025 21:00:00 GMT</pubDate>
       
       <description>描述</description>
@@ -70,13 +70,13 @@
       
       
       
-      <category domain="https://blog.nssw.qzz.io/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      <category domain="https://nssw.200536.xyz/categories/%E5%89%8D%E7%AB%AF/">前端</category>
       
       
-      <category domain="https://blog.nssw.qzz.io/tags/hexo/">hexo</category>
+      <category domain="https://nssw.200536.xyz/tags/hexo/">hexo</category>
       
       
-      <comments>https://blog.nssw.qzz.io/2025/09/03/hello-world/#disqus_thread</comments>
+      <comments>https://nssw.200536.xyz/2025/09/03/hello-world/#disqus_thread</comments>
       
     </item>
     
