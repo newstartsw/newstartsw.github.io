@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="/config/feed/atom.xsl" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>🆕 Starts</title>
+  
+  <subtitle>新的开始</subtitle>
+  <link href="https://blog.nssw.qzz.io/atom.xml" rel="self"/>
+  
+  <link href="https://blog.nssw.qzz.io/"/>
+  <updated>2025-09-05T22:35:00.000Z</updated>
+  <id>https://blog.nssw.qzz.io/</id>
+  
+  <author>
+    <name>newstartsw</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>友链机器人</title>
+    <link href="https://blog.nssw.qzz.io/2025/09/05/links-bot/"/>
+    <id>https://blog.nssw.qzz.io/2025/09/05/links-bot/</id>
+    <published>2025-09-05T22:25:00.000Z</published>
+    <updated>2025-09-05T22:35:00.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;🌐-10分钟搭建-友链机器人&quot;&gt;&lt;a href=&quot;#🌐-10</summary>
+      
+    
+    
+    
+    <category term="后端" scheme="https://blog.nssw.qzz.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+    <category term="tgbot" scheme="https://blog.nssw.qzz.io/tags/tgbot/"/>
+    
+    <category term="workers" scheme="https://blog.nssw.qzz.io/tags/workers/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Action</title>
+    <link href="https://blog.nssw.qzz.io/2025/09/04/hexo-action/"/>
+    <id>https://blog.nssw.qzz.io/2025/09/04/hexo-action/</id>
+    <published>2025-09-04T10:35:00.000Z</published>
+    <updated>2025-09-08T01:20:00.000Z</updated>
+    
+    
+    <summary type="html">两个仓库一个工作流轻松搭建hexo博客（无需本地）</summary>
+    
+    
+    
+    <category term="前端" scheme="https://blog.nssw.qzz.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="hexo" scheme="https://blog.nssw.qzz.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.nssw.qzz.io/2025/09/03/hello-world/"/>
+    <id>https://blog.nssw.qzz.io/2025/09/03/hello-world/</id>
+    <published>2025-09-03T21:00:00.000Z</published>
+    <updated>2025-09-04T11:11:00.000Z</updated>
+    
+    
+    <summary type="html">描述</summary>
+    
+    
+    
+    <category term="前端" scheme="https://blog.nssw.qzz.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="hexo" scheme="https://blog.nssw.qzz.io/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
